@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4a299864.css",
+    "main.js": "/portfolio/static/js/main.5f3649fa.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/image.png": "/portfolio/static/media/image.a366963bb3e9ff5356a5.png",
+    "static/media/Tesseract.png": "/portfolio/static/media/Tesseract.f5d3f504b00d78c16194.png",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Chatapp.png": "/portfolio/static/media/Chatapp.8c211c23595a85c33f9c.png",
+    "static/media/Lalit.pdf": "/portfolio/static/media/Lalit.6340dc69dbeaa1f94259.pdf",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/RNLogo2.png": "/portfolio/static/media/RNLogo2.faf24b4e1a9eb21a669f.png",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.4a299864.css.map": "/portfolio/static/css/main.4a299864.css.map",
+    "main.5f3649fa.js.map": "/portfolio/static/js/main.5f3649fa.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a299864.css",
+    "static/js/main.5f3649fa.js"
+  ]
+}
