@@ -21,7 +21,7 @@ function Home2() {
             <p className="home-about-body">
               Passionate problem solver, who loves debugging. 
               <br />
-              <br />Although programming languages as mere tools for problem-solving, I am profecient in harnessing the power of 
+              <br />Although programming languages are mere tools for problem-solving, I am profecient in harnessing the power of 
                 <b className="purple"> Python, Javascript. </b>
               <br />
               <br />
