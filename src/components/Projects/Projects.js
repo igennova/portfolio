@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import appstore from "../../Assets/Projects/image.png"
 import sonicchat from "../../Assets/Projects/Chatapp.png"
 import tesseract from "../../Assets/Projects/Tesseract.png"
+import notes from "../../Assets/Projects/notes.png"
 
 function Projects() {
   return (
@@ -54,19 +55,20 @@ function Projects() {
           // demoLink="https://editor.soumya-jit.tech/"              
           />
         </Col>
-        {/*
+        {
 
         <Col md={4} className="project-card">
           <ProjectCard
-            imgPath={nameit}
+            imgPath={notes}
             isBlog={false}
-            title="Name it"
-            description="Found new domain from your website. Name it provides you available domains form Namecheap's API. You can select the name you like,, it will redirect you to namecheap's website. "
-            ghLink="https://github.com/rahulnegi20/Name-it"
+            title="Nova Notes"
+            description="Explore a comprehensive notes website offering detailed study materials and flowcharts for students. Organized by subjects, it's the perfect resource for simplifying complex topics and boosting exam preparation!"
+            ghLink="https://github.com/igennova/Notes"
             builtWith={["React.js"]}
-           demoLink="https://rahulnegi20.github.io/Name-it/"
+           demoLink="https://notes-2s1i.vercel.app/"
           />
         </Col>
+        /*
 
         <Col md={4} className="project-card">
           <ProjectCard
