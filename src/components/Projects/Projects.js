@@ -6,6 +6,7 @@ import appstore from "../../Assets/Projects/image.png"
 import sonicchat from "../../Assets/Projects/Chatapp.png"
 import tesseract from "../../Assets/Projects/Tesseract.png"
 import notes from "../../Assets/Projects/notes.png"
+import Nova_video from "../../Assets/Nova_video.png"
 
 function Projects() {
   return (
@@ -55,7 +56,7 @@ function Projects() {
           // demoLink="https://editor.soumya-jit.tech/"              
           />
         </Col>
-        {
+        
 
         <Col md={4} className="project-card">
           <ProjectCard
@@ -72,15 +73,17 @@ function Projects() {
 
         <Col md={4} className="project-card">
           <ProjectCard
-            imgPath={tdict}
+            imgPath={Nova_video}
             isBlog={false}
-            title="T-Dict"
-            description="Too lazy, to go (google/bing) meaning of the word? Here comes your savior T-Dict it fetches the meaning for you direct from your terminal!"
-            ghLink="https://github.com/rahulnegi20/tdict"
-            builtWith={["Python", "shell"]}
+            title="NOVA VIDEO GENERATOR"
+            description="Create stunning videos in moments with NOVA Video Generator! This AI-powered tool effortlessly transforms your ideas into dynamic video content, perfect for presentations, social media, and beyond"
+            ghLink="https://github.com/igennova/text-to-video/tree/master"
+            builtWith={["Expressjs", "BigModelAI","NODEJS"]}
+             demoLink="https://text-to-video-1wr1.onrender.com/"
 
           />
         </Col>
+        {/*
 
         <Col md={4} className="project-card">
           <ProjectCard
