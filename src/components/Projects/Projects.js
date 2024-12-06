@@ -7,6 +7,7 @@ import sonicchat from "../../Assets/Projects/Chatapp.png"
 import tesseract from "../../Assets/Projects/Tesseract.png"
 import notes from "../../Assets/Projects/notes.png"
 import Nova_video from "../../Assets/Nova_video.png"
+import cpbuddy from "../../Assets/Projects/cpbuddy.png"
 
 function Projects() {
   return (
@@ -83,18 +84,21 @@ function Projects() {
 
           />
         </Col>
-        {/*
+        
 
-        <Col md={4} className="project-card">
+        <Col md={5} className="project-card">
           <ProjectCard
-            imgPath={bookadvisor}
+            imgPath={cpbuddy}
             isBlog={false}
-            title="Online Advisor Booking API"
-            description="Online Bood your advisor with this REST API, You can list the available advisors and book/schedule them on spcecific data and time. Demo available on Github 👇."
-            ghLink="https://github.com/rahulnegi20/Book-Advisor"
-            builtWith={["Django Rest Framework", "Postgres"]}
+            title="CP BUDDY"
+            description="Developed a real-time 1v1 coding battle platform using Socket.IO, allowing users to
+compete with friends in DSA challenges.
+"
+            ghLink="https://github.com/igennova/cp-meet"
+            builtWith={["Jugde0","MongoDb","Socket.IO","Express","React","Sulu"]}
+            demoLink="https://cp-buddy-t80e.onrender.com/"
           />
-        </Col> */}
+        </Col> 
       </Row>
     </Container>
     </Container >
